@@ -36,11 +36,11 @@ This is a full-stack blog website application developed for the company **Collas
 1.**Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/blog-website-collasyn.git
-   cd blog-website-collasyn
+   git clone https://github.com/sbn-raju/Blogs_Frontend.git
+   cd Blogs_Frontend
    ```
 
-2. **Setup the Backend:**
+2. **Run the Application by the following steps:**
 
 - Install all the dependencies
    ```bash
@@ -50,16 +50,18 @@ This is a full-stack blog website application developed for the company **Collas
   ```bash
     touch .env
   ```
-- After create .env file save all your database credintials into that.
-  ```bash 
-    DB_HOST=localhost
-    DB_USER=your-db-user
-    DB_PASSWORD=your-db-password
-    DB_NAME=your-db-name
-    JWT_SECRET=your-jwt-secret
-  ```
 
 - To run the project type this command in you terminal.
   ```bash
   npm run dev
   ```
+
+### Outputs
+
+![Screenshot 2025-01-01 160901](https://github.com/user-attachments/assets/c9cfccb1-8e82-4c6a-971a-8f40304a7742)
+
+
+![Screenshot 2025-01-01 160920](https://github.com/user-attachments/assets/51d4ac5c-0b49-4933-88d5-5897a2f1b6b6)
+
+
+![Screenshot 2025-01-01 160933](https://github.com/user-attachments/assets/ad984cc3-292e-47f6-95f7-bbfdca21a6bf)
